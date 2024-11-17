@@ -31,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/MohdZibran/LeetCodeQ/tree/master/0257-binary-tree-paths) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/MohdZibran/LeetCodeQ/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
