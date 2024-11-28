@@ -90,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/MohdZibran/LeetCodeQ/tree/master/0258-add-digits) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
