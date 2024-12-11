@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/MohdZibran/LeetCodeQ/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MohdZibran/LeetCodeQ/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/MohdZibran/LeetCodeQ/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/3427-special-array-ii) |
 ## Hash Table
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MohdZibran/LeetCodeQ/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/MohdZibran/LeetCodeQ/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/3427-special-array-ii) |
 ## Sorting
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MohdZibran/LeetCodeQ/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/MohdZibran/LeetCodeQ/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## String Matching
 |  |
 | ------- |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MohdZibran/LeetCodeQ/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/MohdZibran/LeetCodeQ/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Prefix Sum
 |  |
