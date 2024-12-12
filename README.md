@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/MohdZibran/LeetCodeQ/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MohdZibran/LeetCodeQ/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/MohdZibran/LeetCodeQ/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/MohdZibran/LeetCodeQ/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/3427-special-array-ii) |
 ## Hash Table
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/MohdZibran/LeetCodeQ/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/MohdZibran/LeetCodeQ/tree/master/0258-add-digits) |
 | [2232-adding-spaces-to-a-string](https://github.com/MohdZibran/LeetCodeQ/tree/master/2232-adding-spaces-to-a-string) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/MohdZibran/LeetCodeQ/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Number Theory
 |  |
 | ------- |
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/MohdZibran/LeetCodeQ/tree/master/2692-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
