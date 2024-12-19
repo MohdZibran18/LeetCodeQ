@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MohdZibran/LeetCodeQ/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MohdZibran/LeetCodeQ/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0780-max-chunks-to-make-sorted](https://github.com/MohdZibran/LeetCodeQ/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MohdZibran/LeetCodeQ/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2089-maximum-matrix-sum](https://github.com/MohdZibran/LeetCodeQ/tree/master/2089-maximum-matrix-sum) |
 | [2232-adding-spaces-to-a-string](https://github.com/MohdZibran/LeetCodeQ/tree/master/2232-adding-spaces-to-a-string) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MohdZibran/LeetCodeQ/tree/master/0020-valid-parentheses) |
+| [0780-max-chunks-to-make-sorted](https://github.com/MohdZibran/LeetCodeQ/tree/master/0780-max-chunks-to-make-sorted) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0780-max-chunks-to-make-sorted](https://github.com/MohdZibran/LeetCodeQ/tree/master/0780-max-chunks-to-make-sorted) |
 | [2089-maximum-matrix-sum](https://github.com/MohdZibran/LeetCodeQ/tree/master/2089-maximum-matrix-sum) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Math
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/MohdZibran/LeetCodeQ/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MohdZibran/LeetCodeQ/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/MohdZibran/LeetCodeQ/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -190,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/MohdZibran/LeetCodeQ/tree/master/2692-take-gifts-from-the-richest-pile) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/MohdZibran/LeetCodeQ/tree/master/0780-max-chunks-to-make-sorted) |
 <!---LeetCode Topics End-->
