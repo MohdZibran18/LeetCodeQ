@@ -19,12 +19,12 @@ public:
         vector<int>ans;
         q.push(root);
         while(!q.empty()){
-            priority_queue<int>v;
+           int maxi=INT_MIN;
             int size = q.size();
             for(int i=0; i<size; i++){
             TreeNode *node = q.front();
             q.pop();
-            v.push(node->val);
+            maxi=max(maxi,node->val);
             if(node->left!=nullptr){
                 q.push(node->left);
             }
@@ -32,7 +32,7 @@ public:
                 q.push(node->right);
             }
             }
-            ans.push_back(v.top());
+            ans.push_back(maxi);
         }
         return ans;
     }
