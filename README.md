@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/MohdZibran/LeetCodeQ/tree/master/0494-target-sum) |
 | [1063-best-sightseeing-pair](https://github.com/MohdZibran/LeetCodeQ/tree/master/1063-best-sightseeing-pair) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/MohdZibran/LeetCodeQ/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2562-count-ways-to-build-good-strings](https://github.com/MohdZibran/LeetCodeQ/tree/master/2562-count-ways-to-build-good-strings) |
 ## Greedy
 |  |
 | ------- |
