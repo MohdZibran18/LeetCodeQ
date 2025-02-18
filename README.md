@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/MohdZibran/LeetCodeQ/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/MohdZibran/LeetCodeQ/tree/master/0067-add-binary) |
 | [0257-binary-tree-paths](https://github.com/MohdZibran/LeetCodeQ/tree/master/0257-binary-tree-paths) |
+| [0392-is-subsequence](https://github.com/MohdZibran/LeetCodeQ/tree/master/0392-is-subsequence) |
 | [0812-rotate-string](https://github.com/MohdZibran/LeetCodeQ/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MohdZibran/LeetCodeQ/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/MohdZibran/LeetCodeQ/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/MohdZibran/LeetCodeQ/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MohdZibran/LeetCodeQ/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/MohdZibran/LeetCodeQ/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/MohdZibran/LeetCodeQ/tree/master/0494-target-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/MohdZibran/LeetCodeQ/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/MohdZibran/LeetCodeQ/tree/master/1063-best-sightseeing-pair) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MohdZibran/LeetCodeQ/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MohdZibran/LeetCodeQ/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0392-is-subsequence](https://github.com/MohdZibran/LeetCodeQ/tree/master/0392-is-subsequence) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MohdZibran/LeetCodeQ/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MohdZibran/LeetCodeQ/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/MohdZibran/LeetCodeQ/tree/master/2232-adding-spaces-to-a-string) |
