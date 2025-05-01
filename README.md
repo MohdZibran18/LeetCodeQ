@@ -103,16 +103,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/MohdZibran/LeetCodeQ/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MohdZibran/LeetCodeQ/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/MohdZibran/LeetCodeQ/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/MohdZibran/LeetCodeQ/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/MohdZibran/LeetCodeQ/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MohdZibran/LeetCodeQ/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/MohdZibran/LeetCodeQ/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/MohdZibran/LeetCodeQ/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MohdZibran/LeetCodeQ/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/MohdZibran/LeetCodeQ/tree/master/0234-palindrome-linked-list) |
 | [0780-max-chunks-to-make-sorted](https://github.com/MohdZibran/LeetCodeQ/tree/master/0780-max-chunks-to-make-sorted) |
 ## Dynamic Programming
 |  |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MohdZibran/LeetCodeQ/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MohdZibran/LeetCodeQ/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0234-palindrome-linked-list](https://github.com/MohdZibran/LeetCodeQ/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/MohdZibran/LeetCodeQ/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/MohdZibran/LeetCodeQ/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MohdZibran/LeetCodeQ/tree/master/1468-check-if-n-and-its-double-exist) |
