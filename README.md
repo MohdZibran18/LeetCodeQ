@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/MohdZibran/LeetCodeQ/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MohdZibran/LeetCodeQ/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/MohdZibran/LeetCodeQ/tree/master/0662-maximum-width-of-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/MohdZibran/LeetCodeQ/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2384-root-equals-sum-of-children](https://github.com/MohdZibran/LeetCodeQ/tree/master/2384-root-equals-sum-of-children) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/MohdZibran/LeetCodeQ/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Depth-First Search
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/MohdZibran/LeetCodeQ/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MohdZibran/LeetCodeQ/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/MohdZibran/LeetCodeQ/tree/master/0662-maximum-width-of-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/MohdZibran/LeetCodeQ/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2384-root-equals-sum-of-children](https://github.com/MohdZibran/LeetCodeQ/tree/master/2384-root-equals-sum-of-children) |
 ## Database
 |  |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/MohdZibran/LeetCodeQ/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/MohdZibran/LeetCodeQ/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Monotonic Stack
 |  |
@@ -244,4 +247,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/MohdZibran/LeetCodeQ/tree/master/0200-number-of-islands) |
+## Design
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/MohdZibran/LeetCodeQ/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/MohdZibran/LeetCodeQ/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/MohdZibran/LeetCodeQ/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
