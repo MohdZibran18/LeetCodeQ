@@ -5,8 +5,8 @@ public:
     if(dividend == INT_MIN && divisor == 1) return INT_MIN;
 
     // Safely cast to long to handle abs(INT_MIN)
-    long long dd = abs((long long)dividend);
-    long long dv = abs((long long)divisor);
+    long int dd = abs((long int)dividend);
+    long int dv = abs((long int)divisor);
 
     int ans = 0;
     while(dv <= dd) {
