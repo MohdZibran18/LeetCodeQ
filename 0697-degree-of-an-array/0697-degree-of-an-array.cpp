@@ -1,8 +1,8 @@
 class Solution {
 public:
     int findShortestSubArray(vector<int>& nums) {
-    map<int, int> ans;
-    map<int, pair<int, int>> mp;
+    unordered_map<int, int> ans;
+    unordered_map<int, pair<int, int>> mp;
     int maxFreq = 0;
 
     for (int i = 0; i < nums.size(); i++) {
