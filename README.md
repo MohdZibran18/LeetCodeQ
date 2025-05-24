@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/MohdZibran/LeetCodeQ/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3194-find-words-containing-character](https://github.com/MohdZibran/LeetCodeQ/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/MohdZibran/LeetCodeQ/tree/master/3321-type-of-triangle) |
 | [3427-special-array-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/3427-special-array-ii) |
 | [3723-sum-of-good-numbers](https://github.com/MohdZibran/LeetCodeQ/tree/master/3723-sum-of-good-numbers) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/MohdZibran/LeetCodeQ/tree/master/2727-number-of-senior-citizens) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/MohdZibran/LeetCodeQ/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3194-find-words-containing-character](https://github.com/MohdZibran/LeetCodeQ/tree/master/3194-find-words-containing-character) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Backtracking
