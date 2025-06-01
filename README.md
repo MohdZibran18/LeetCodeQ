@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/MohdZibran/LeetCodeQ/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/MohdZibran/LeetCodeQ/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/MohdZibran/LeetCodeQ/tree/master/0258-add-digits) |
+| [3201-distribute-candies-among-children-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/MohdZibran/LeetCodeQ/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Two Pointers
@@ -312,8 +313,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/MohdZibran/LeetCodeQ/tree/master/2215-finding-3-digit-even-numbers) |
+| [3201-distribute-candies-among-children-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/3201-distribute-candies-among-children-ii) |
 ## Counting Sort
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MohdZibran/LeetCodeQ/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Combinatorics
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/3201-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
