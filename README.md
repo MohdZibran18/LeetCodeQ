@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/MohdZibran/LeetCodeQ/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/MohdZibran/LeetCodeQ/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/MohdZibran/LeetCodeQ/tree/master/0234-palindrome-linked-list) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Stack
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/MohdZibran/LeetCodeQ/tree/master/0258-add-digits) |
 | [3201-distribute-candies-among-children-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/MohdZibran/LeetCodeQ/tree/master/3321-type-of-triangle) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Two Pointers
 |  |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/MohdZibran/LeetCodeQ/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/MohdZibran/LeetCodeQ/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/MohdZibran/LeetCodeQ/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/MohdZibran/LeetCodeQ/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/MohdZibran/LeetCodeQ/tree/master/0067-add-binary) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sliding Window
 |  |
 | ------- |
