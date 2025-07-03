@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MohdZibran/LeetCodeQ/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MohdZibran/LeetCodeQ/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/MohdZibran/LeetCodeQ/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/0040-combination-sum-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MohdZibran/LeetCodeQ/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/MohdZibran/LeetCodeQ/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/0040-combination-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/MohdZibran/LeetCodeQ/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/MohdZibran/LeetCodeQ/tree/master/0494-target-sum) |
 ## Tree
