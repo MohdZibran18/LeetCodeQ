@@ -1,29 +1,29 @@
 class Solution {
+    
 public:
-   void combination(int index,int tar,vector<int>&v,vector<vector<int>>&ans,vector<int>&temp)
-   {
-      if(index==v.size())
-      {
-        if(tar==0)
-        {
-            ans.push_back(temp);
+void helper(int ind,vector<int>arr,int tar,vector<vector<int>>&ans, vector<int >temp){
+        //base case 
+        if(ind==arr.size()){
+            if(tar==0){
+                ans.push_back(temp);
+            }
+            return ;
         }
-            return;
-      }
-      if(v[index]<=tar)
-      {
-      temp.push_back(v[index]);
-      //pick condition 
-      combination(index,tar-v[index],v,ans,temp);
-      //not pick condition 
-      temp.pop_back();
-      }
-      combination(index+1,tar,v,ans,temp);
-   }
-    vector<vector<int>> combinationSum(vector<int>&v, int t) {
+        //condition where target is still greater than zero
+        if(arr[ind]<=tar){
+            temp.push_back(arr[ind]);
+            // selecting again that number by picking it 
+            helper(ind,arr,tar-arr[ind],ans,temp);
+            // back track if base condition hit 
+            temp.pop_back();
+        }
+        //not pick contdition 
+        helper(ind+1,arr,tar,ans,temp);
+    }
+    vector<vector<int>> combinationSum(vector<int>& arr, int t) {
         vector<vector<int>>ans;
-        vector<int>temp;
-       combination(0,t,v,ans,temp);
-       return ans;
+        vector<int >temp;
+        helper(0,arr,t,ans,temp);
+        return ans;
     }
 };
