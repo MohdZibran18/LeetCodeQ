@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MohdZibran/LeetCodeQ/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/MohdZibran/LeetCodeQ/tree/master/0662-maximum-width-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MohdZibran/LeetCodeQ/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0832-binary-tree-pruning](https://github.com/MohdZibran/LeetCodeQ/tree/master/0832-binary-tree-pruning) |
 | [2384-root-equals-sum-of-children](https://github.com/MohdZibran/LeetCodeQ/tree/master/2384-root-equals-sum-of-children) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/MohdZibran/LeetCodeQ/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Depth-First Search
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MohdZibran/LeetCodeQ/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/MohdZibran/LeetCodeQ/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/MohdZibran/LeetCodeQ/tree/master/0733-flood-fill) |
+| [0832-binary-tree-pruning](https://github.com/MohdZibran/LeetCodeQ/tree/master/0832-binary-tree-pruning) |
 | [1073-number-of-enclaves](https://github.com/MohdZibran/LeetCodeQ/tree/master/1073-number-of-enclaves) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/MohdZibran/LeetCodeQ/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MohdZibran/LeetCodeQ/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/MohdZibran/LeetCodeQ/tree/master/0662-maximum-width-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MohdZibran/LeetCodeQ/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0832-binary-tree-pruning](https://github.com/MohdZibran/LeetCodeQ/tree/master/0832-binary-tree-pruning) |
 | [2384-root-equals-sum-of-children](https://github.com/MohdZibran/LeetCodeQ/tree/master/2384-root-equals-sum-of-children) |
 ## Database
 |  |
