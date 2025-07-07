@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/MohdZibran/LeetCodeQ/tree/master/0733-flood-fill) |
 | [0832-binary-tree-pruning](https://github.com/MohdZibran/LeetCodeQ/tree/master/0832-binary-tree-pruning) |
 | [1073-number-of-enclaves](https://github.com/MohdZibran/LeetCodeQ/tree/master/1073-number-of-enclaves) |
+| [2439-longest-cycle-in-a-graph](https://github.com/MohdZibran/LeetCodeQ/tree/master/2439-longest-cycle-in-a-graph) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/MohdZibran/LeetCodeQ/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [2439-longest-cycle-in-a-graph](https://github.com/MohdZibran/LeetCodeQ/tree/master/2439-longest-cycle-in-a-graph) |
 | [3189-find-champion-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/3189-find-champion-ii) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/MohdZibran/LeetCodeQ/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Matrix
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/MohdZibran/LeetCodeQ/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/MohdZibran/LeetCodeQ/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/MohdZibran/LeetCodeQ/tree/master/1073-number-of-enclaves) |
+| [2439-longest-cycle-in-a-graph](https://github.com/MohdZibran/LeetCodeQ/tree/master/2439-longest-cycle-in-a-graph) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/MohdZibran/LeetCodeQ/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Search
 |  |
@@ -350,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/3201-distribute-candies-among-children-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [2439-longest-cycle-in-a-graph](https://github.com/MohdZibran/LeetCodeQ/tree/master/2439-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
