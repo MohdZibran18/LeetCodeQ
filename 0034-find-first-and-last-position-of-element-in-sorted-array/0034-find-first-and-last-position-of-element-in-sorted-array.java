@@ -1,17 +1,47 @@
 class Solution {
-   public int[] searchRange(int[] nums, int target) {
-    if (nums.length == 0) return new int[]{-1, -1};
-
-    int firstOcc = -1, lastOcc = -1;
-
-    for (int i = 0; i < nums.length; i++) {
-        if (nums[i] == target) {
-            if (firstOcc == -1) firstOcc = i; 
-            lastOcc = i; 
-        }
+    public int lowerBound(int[] nums, int target){
+        int low=0,high=nums.length-1,mid;
+        int ans=-1;
+        while(low<=high){
+            mid=low+(high-low)/2;
+            if(nums[mid]==target){
+                ans=mid;
+                high=mid-1;
+            }
+           else if(nums[mid]<target){
+                low=mid+1;
+            }  
+            else if(nums[mid]>target){
+                // ans=mid;
+                high=mid-1;
+            }
+        }return ans ;
     }
-
-    return new int[]{firstOcc, lastOcc};
+    public int upperBound(int[] nums, int target){
+        int low=0,high=nums.length-1,mid;
+        int ans=-1;
+        while(low<=high){
+            mid=low+(high-low)/2;
+            if(nums[mid]==target){
+                ans=mid;
+                low=mid+1;
+            }
+           else if(nums[mid]<target){
+                low=mid+1;
+            }  
+            else if(nums[mid]>target){
+                // ans=mid;
+                high=mid-1;
+            }
+        }return ans ;
+    }
+   public int[] searchRange(int[] nums, int target) {
+    //first occ means lower bound and last occ mens upper bound 
+    // edge case
+     if (nums.length == 0) return new int[]{-1, -1};
+    int firstOcc=lowerBound(nums,target);
+    int secondOcc=upperBound(nums,target);
+    return new int[]{firstOcc, secondOcc};
 }
 
 }
