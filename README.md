@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/MohdZibran/LeetCodeQ/tree/master/0733-flood-fill) |
 | [0780-max-chunks-to-make-sorted](https://github.com/MohdZibran/LeetCodeQ/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/MohdZibran/LeetCodeQ/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/MohdZibran/LeetCodeQ/tree/master/0907-koko-eating-bananas) |
 | [1025-minimum-cost-for-tickets](https://github.com/MohdZibran/LeetCodeQ/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/MohdZibran/LeetCodeQ/tree/master/1036-rotting-oranges) |
 | [1063-best-sightseeing-pair](https://github.com/MohdZibran/LeetCodeQ/tree/master/1063-best-sightseeing-pair) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/MohdZibran/LeetCodeQ/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MohdZibran/LeetCodeQ/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/MohdZibran/LeetCodeQ/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/MohdZibran/LeetCodeQ/tree/master/0907-koko-eating-bananas) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MohdZibran/LeetCodeQ/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/MohdZibran/LeetCodeQ/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
