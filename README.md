@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/MohdZibran/LeetCodeQ/tree/master/0200-number-of-islands) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MohdZibran/LeetCodeQ/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0494-target-sum](https://github.com/MohdZibran/LeetCodeQ/tree/master/0494-target-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/MohdZibran/LeetCodeQ/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/MohdZibran/LeetCodeQ/tree/master/0542-01-matrix) |
 | [0697-degree-of-an-array](https://github.com/MohdZibran/LeetCodeQ/tree/master/0697-degree-of-an-array) |
 | [0733-flood-fill](https://github.com/MohdZibran/LeetCodeQ/tree/master/0733-flood-fill) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/MohdZibran/LeetCodeQ/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MohdZibran/LeetCodeQ/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/MohdZibran/LeetCodeQ/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/MohdZibran/LeetCodeQ/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MohdZibran/LeetCodeQ/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/MohdZibran/LeetCodeQ/tree/master/2210-find-target-indices-after-sorting-array) |
