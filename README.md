@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/MohdZibran/LeetCodeQ/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2727-number-of-senior-citizens](https://github.com/MohdZibran/LeetCodeQ/tree/master/2727-number-of-senior-citizens) |
+| [2737-row-with-maximum-ones](https://github.com/MohdZibran/LeetCodeQ/tree/master/2737-row-with-maximum-ones) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/MohdZibran/LeetCodeQ/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/MohdZibran/LeetCodeQ/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/MohdZibran/LeetCodeQ/tree/master/1073-number-of-enclaves) |
 | [2089-maximum-matrix-sum](https://github.com/MohdZibran/LeetCodeQ/tree/master/2089-maximum-matrix-sum) |
+| [2737-row-with-maximum-ones](https://github.com/MohdZibran/LeetCodeQ/tree/master/2737-row-with-maximum-ones) |
 ## Breadth-First Search
 |  |
 | ------- |
