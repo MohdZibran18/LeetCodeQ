@@ -4,13 +4,9 @@ class Solution {
 
     while (low <= high) {
         int mid = low + (high - low) / 2;
-
-        // Handle edge cases first
         if (mid == 0 || mid == nums.length - 1) {
             return nums[mid];
         }
-
-        // Check if mid is the unique element
         if (nums[mid] != nums[mid - 1] && nums[mid] != nums[mid + 1]) {
             return nums[mid];
         }
