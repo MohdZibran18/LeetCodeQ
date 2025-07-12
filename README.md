@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/MohdZibran/LeetCodeQ/tree/master/2215-finding-3-digit-even-numbers) |
 | [2232-adding-spaces-to-a-string](https://github.com/MohdZibran/LeetCodeQ/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MohdZibran/LeetCodeQ/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/MohdZibran/LeetCodeQ/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/MohdZibran/LeetCodeQ/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/MohdZibran/LeetCodeQ/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MohdZibran/LeetCodeQ/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/MohdZibran/LeetCodeQ/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/MohdZibran/LeetCodeQ/tree/master/2215-finding-3-digit-even-numbers) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/MohdZibran/LeetCodeQ/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/MohdZibran/LeetCodeQ/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2892-check-if-array-is-good](https://github.com/MohdZibran/LeetCodeQ/tree/master/2892-check-if-array-is-good) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/MohdZibran/LeetCodeQ/tree/master/0135-candy) |
 | [0780-max-chunks-to-make-sorted](https://github.com/MohdZibran/LeetCodeQ/tree/master/0780-max-chunks-to-make-sorted) |
 | [2089-maximum-matrix-sum](https://github.com/MohdZibran/LeetCodeQ/tree/master/2089-maximum-matrix-sum) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/MohdZibran/LeetCodeQ/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/MohdZibran/LeetCodeQ/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/MohdZibran/LeetCodeQ/tree/master/0258-add-digits) |
 | [2048-build-array-from-permutation](https://github.com/MohdZibran/LeetCodeQ/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/MohdZibran/LeetCodeQ/tree/master/2232-adding-spaces-to-a-string) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/MohdZibran/LeetCodeQ/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/MohdZibran/LeetCodeQ/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Number Theory
@@ -321,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MohdZibran/LeetCodeQ/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/MohdZibran/LeetCodeQ/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/MohdZibran/LeetCodeQ/tree/master/2215-finding-3-digit-even-numbers) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/MohdZibran/LeetCodeQ/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/MohdZibran/LeetCodeQ/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/MohdZibran/LeetCodeQ/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -363,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MohdZibran/LeetCodeQ/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/MohdZibran/LeetCodeQ/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/MohdZibran/LeetCodeQ/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Monotonic Stack
 |  |
