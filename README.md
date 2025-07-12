@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/MohdZibran/LeetCodeQ/tree/master/2727-number-of-senior-citizens) |
 | [2737-row-with-maximum-ones](https://github.com/MohdZibran/LeetCodeQ/tree/master/2737-row-with-maximum-ones) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/MohdZibran/LeetCodeQ/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2892-check-if-array-is-good](https://github.com/MohdZibran/LeetCodeQ/tree/master/2892-check-if-array-is-good) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/MohdZibran/LeetCodeQ/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/MohdZibran/LeetCodeQ/tree/master/2215-finding-3-digit-even-numbers) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/MohdZibran/LeetCodeQ/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2892-check-if-array-is-good](https://github.com/MohdZibran/LeetCodeQ/tree/master/2892-check-if-array-is-good) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## String
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/MohdZibran/LeetCodeQ/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/MohdZibran/LeetCodeQ/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2892-check-if-array-is-good](https://github.com/MohdZibran/LeetCodeQ/tree/master/2892-check-if-array-is-good) |
 | [3321-type-of-triangle](https://github.com/MohdZibran/LeetCodeQ/tree/master/3321-type-of-triangle) |
 ## String Matching
 |  |
