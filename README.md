@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/MohdZibran/LeetCodeQ/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/MohdZibran/LeetCodeQ/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MohdZibran/LeetCodeQ/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/MohdZibran/LeetCodeQ/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/MohdZibran/LeetCodeQ/tree/master/0437-path-sum-iii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/MohdZibran/LeetCodeQ/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/MohdZibran/LeetCodeQ/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/MohdZibran/LeetCodeQ/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MohdZibran/LeetCodeQ/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/MohdZibran/LeetCodeQ/tree/master/0257-binary-tree-paths) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/MohdZibran/LeetCodeQ/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/MohdZibran/LeetCodeQ/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MohdZibran/LeetCodeQ/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/MohdZibran/LeetCodeQ/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/MohdZibran/LeetCodeQ/tree/master/0437-path-sum-iii) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/MohdZibran/LeetCodeQ/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MohdZibran/LeetCodeQ/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/MohdZibran/LeetCodeQ/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/MohdZibran/LeetCodeQ/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/MohdZibran/LeetCodeQ/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/MohdZibran/LeetCodeQ/tree/master/0542-01-matrix) |
