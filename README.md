@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/MohdZibran/LeetCodeQ/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/MohdZibran/LeetCodeQ/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/MohdZibran/LeetCodeQ/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MohdZibran/LeetCodeQ/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MohdZibran/LeetCodeQ/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MohdZibran/LeetCodeQ/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/MohdZibran/LeetCodeQ/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/MohdZibran/LeetCodeQ/tree/master/0073-set-matrix-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MohdZibran/LeetCodeQ/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0697-degree-of-an-array](https://github.com/MohdZibran/LeetCodeQ/tree/master/0697-degree-of-an-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/MohdZibran/LeetCodeQ/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/MohdZibran/LeetCodeQ/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/MohdZibran/LeetCodeQ/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/MohdZibran/LeetCodeQ/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/MohdZibran/LeetCodeQ/tree/master/0542-01-matrix) |
