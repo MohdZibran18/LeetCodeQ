@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/MohdZibran/LeetCodeQ/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MohdZibran/LeetCodeQ/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/MohdZibran/LeetCodeQ/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1904-second-largest-digit-in-a-string](https://github.com/MohdZibran/LeetCodeQ/tree/master/1904-second-largest-digit-in-a-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/MohdZibran/LeetCodeQ/tree/master/2215-finding-3-digit-even-numbers) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/MohdZibran/LeetCodeQ/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/MohdZibran/LeetCodeQ/tree/master/2480-find-subarrays-with-equal-sum) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/MohdZibran/LeetCodeQ/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MohdZibran/LeetCodeQ/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/MohdZibran/LeetCodeQ/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1904-second-largest-digit-in-a-string](https://github.com/MohdZibran/LeetCodeQ/tree/master/1904-second-largest-digit-in-a-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/MohdZibran/LeetCodeQ/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MohdZibran/LeetCodeQ/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/MohdZibran/LeetCodeQ/tree/master/2414-move-pieces-to-obtain-a-string) |
