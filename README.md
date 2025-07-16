@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MohdZibran/LeetCodeQ/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/MohdZibran/LeetCodeQ/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1904-second-largest-digit-in-a-string](https://github.com/MohdZibran/LeetCodeQ/tree/master/1904-second-largest-digit-in-a-string) |
+| [2032-largest-odd-number-in-string](https://github.com/MohdZibran/LeetCodeQ/tree/master/2032-largest-odd-number-in-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/MohdZibran/LeetCodeQ/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MohdZibran/LeetCodeQ/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/MohdZibran/LeetCodeQ/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/MohdZibran/LeetCodeQ/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/MohdZibran/LeetCodeQ/tree/master/0455-assign-cookies) |
 | [0780-max-chunks-to-make-sorted](https://github.com/MohdZibran/LeetCodeQ/tree/master/0780-max-chunks-to-make-sorted) |
+| [2032-largest-odd-number-in-string](https://github.com/MohdZibran/LeetCodeQ/tree/master/2032-largest-odd-number-in-string) |
 | [2089-maximum-matrix-sum](https://github.com/MohdZibran/LeetCodeQ/tree/master/2089-maximum-matrix-sum) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/MohdZibran/LeetCodeQ/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MohdZibran/LeetCodeQ/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/MohdZibran/LeetCodeQ/tree/master/0258-add-digits) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MohdZibran/LeetCodeQ/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2032-largest-odd-number-in-string](https://github.com/MohdZibran/LeetCodeQ/tree/master/2032-largest-odd-number-in-string) |
 | [3201-distribute-candies-among-children-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/MohdZibran/LeetCodeQ/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/3600-find-the-k-th-character-in-string-game-i) |
