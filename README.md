@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/MohdZibran/LeetCodeQ/tree/master/0176-second-highest-salary) |
 | [0620-not-boring-movies](https://github.com/MohdZibran/LeetCodeQ/tree/master/0620-not-boring-movies) |
 ## Linked List
 |  |
