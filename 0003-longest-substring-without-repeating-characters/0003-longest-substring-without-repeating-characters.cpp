@@ -4,25 +4,24 @@ public:
        
         int n=s.size();
         int ans=0;
-        string st;
+        int count=0;
 
-        //brute force approach 
-        for(int i=0;i<n;i++)
+        //optimal approach is sliding window concept 
+        unordered_map<char,int>mp;
+        int left=0;int right=0;
+        while(right<n)
         {
-            unordered_map<char,int>mp;
-            st="";
-            
-            for(int j=i;j<n;j++)
+          if(mp.find(s[right])!=mp.end())
+          {
+            if(mp[s[right]]>=left)
             {
-                if(mp[s[j]]==1)
-                {
-                    break;
-                }
-               st+=s[j]; 
-               int len=j-i+1;
-                ans=max(ans,len);
-                mp[s[j]]=1;
+                left=mp[s[right]]+1;
             }
+          }
+            mp[s[right]]=right;
+            int len=(right-left)+1;
+            ans=max(ans,len); 
+          right++;
         }
         return ans;
     }
