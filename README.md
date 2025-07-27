@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/MohdZibran/LeetCodeQ/tree/master/2215-finding-3-digit-even-numbers) |
 | [2232-adding-spaces-to-a-string](https://github.com/MohdZibran/LeetCodeQ/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MohdZibran/LeetCodeQ/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/MohdZibran/LeetCodeQ/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/MohdZibran/LeetCodeQ/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/MohdZibran/LeetCodeQ/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MohdZibran/LeetCodeQ/tree/master/2497-maximum-matching-of-players-with-trainers) |
