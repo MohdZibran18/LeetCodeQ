@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/MohdZibran/LeetCodeQ/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/MohdZibran/LeetCodeQ/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MohdZibran/LeetCodeQ/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/MohdZibran/LeetCodeQ/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/MohdZibran/LeetCodeQ/tree/master/0662-maximum-width-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MohdZibran/LeetCodeQ/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0832-binary-tree-pruning](https://github.com/MohdZibran/LeetCodeQ/tree/master/0832-binary-tree-pruning) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/MohdZibran/LeetCodeQ/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/MohdZibran/LeetCodeQ/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MohdZibran/LeetCodeQ/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/MohdZibran/LeetCodeQ/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/MohdZibran/LeetCodeQ/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/MohdZibran/LeetCodeQ/tree/master/0733-flood-fill) |
 | [0832-binary-tree-pruning](https://github.com/MohdZibran/LeetCodeQ/tree/master/0832-binary-tree-pruning) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/MohdZibran/LeetCodeQ/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/MohdZibran/LeetCodeQ/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MohdZibran/LeetCodeQ/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/MohdZibran/LeetCodeQ/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/MohdZibran/LeetCodeQ/tree/master/0662-maximum-width-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MohdZibran/LeetCodeQ/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0832-binary-tree-pruning](https://github.com/MohdZibran/LeetCodeQ/tree/master/0832-binary-tree-pruning) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/MohdZibran/LeetCodeQ/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MohdZibran/LeetCodeQ/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/MohdZibran/LeetCodeQ/tree/master/0542-01-matrix) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/MohdZibran/LeetCodeQ/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/MohdZibran/LeetCodeQ/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/MohdZibran/LeetCodeQ/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/MohdZibran/LeetCodeQ/tree/master/1036-rotting-oranges) |
