@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/MohdZibran/LeetCodeQ/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2048-build-array-from-permutation](https://github.com/MohdZibran/LeetCodeQ/tree/master/2048-build-array-from-permutation) |
 | [2089-maximum-matrix-sum](https://github.com/MohdZibran/LeetCodeQ/tree/master/2089-maximum-matrix-sum) |
+| [2102-find-the-middle-index-in-array](https://github.com/MohdZibran/LeetCodeQ/tree/master/2102-find-the-middle-index-in-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/MohdZibran/LeetCodeQ/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/MohdZibran/LeetCodeQ/tree/master/2215-finding-3-digit-even-numbers) |
 | [2232-adding-spaces-to-a-string](https://github.com/MohdZibran/LeetCodeQ/tree/master/2232-adding-spaces-to-a-string) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/MohdZibran/LeetCodeQ/tree/master/0724-find-pivot-index) |
+| [2102-find-the-middle-index-in-array](https://github.com/MohdZibran/LeetCodeQ/tree/master/2102-find-the-middle-index-in-array) |
 | [3427-special-array-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/3427-special-array-ii) |
 ## Counting
 |  |
