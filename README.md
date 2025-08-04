@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/MohdZibran/LeetCodeQ/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/MohdZibran/LeetCodeQ/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/MohdZibran/LeetCodeQ/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MohdZibran/LeetCodeQ/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/MohdZibran/LeetCodeQ/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/MohdZibran/LeetCodeQ/tree/master/0222-count-complete-tree-nodes) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/MohdZibran/LeetCodeQ/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/MohdZibran/LeetCodeQ/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/MohdZibran/LeetCodeQ/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MohdZibran/LeetCodeQ/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/MohdZibran/LeetCodeQ/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/MohdZibran/LeetCodeQ/tree/master/0200-number-of-islands) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/MohdZibran/LeetCodeQ/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/MohdZibran/LeetCodeQ/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/MohdZibran/LeetCodeQ/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MohdZibran/LeetCodeQ/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/MohdZibran/LeetCodeQ/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/MohdZibran/LeetCodeQ/tree/master/0222-count-complete-tree-nodes) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/MohdZibran/LeetCodeQ/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/MohdZibran/LeetCodeQ/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/MohdZibran/LeetCodeQ/tree/master/0025-reverse-nodes-in-k-group) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/MohdZibran/LeetCodeQ/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0234-palindrome-linked-list](https://github.com/MohdZibran/LeetCodeQ/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/MohdZibran/LeetCodeQ/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/MohdZibran/LeetCodeQ/tree/master/0908-middle-of-the-linked-list) |
@@ -377,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/MohdZibran/LeetCodeQ/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/MohdZibran/LeetCodeQ/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/MohdZibran/LeetCodeQ/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/MohdZibran/LeetCodeQ/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/MohdZibran/LeetCodeQ/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/MohdZibran/LeetCodeQ/tree/master/0463-island-perimeter) |
