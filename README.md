@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MohdZibran/LeetCodeQ/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/MohdZibran/LeetCodeQ/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/MohdZibran/LeetCodeQ/tree/master/0234-palindrome-linked-list) |
 | [0780-max-chunks-to-make-sorted](https://github.com/MohdZibran/LeetCodeQ/tree/master/0780-max-chunks-to-make-sorted) |
 ## Dynamic Programming
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/MohdZibran/LeetCodeQ/tree/master/0155-min-stack) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MohdZibran/LeetCodeQ/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
