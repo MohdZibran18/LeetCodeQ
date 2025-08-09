@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/MohdZibran/LeetCodeQ/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/MohdZibran/LeetCodeQ/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/MohdZibran/LeetCodeQ/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/MohdZibran/LeetCodeQ/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/MohdZibran/LeetCodeQ/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/MohdZibran/LeetCodeQ/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/MohdZibran/LeetCodeQ/tree/master/0907-koko-eating-bananas) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/MohdZibran/LeetCodeQ/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/MohdZibran/LeetCodeQ/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/MohdZibran/LeetCodeQ/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/MohdZibran/LeetCodeQ/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/MohdZibran/LeetCodeQ/tree/master/0780-max-chunks-to-make-sorted) |
 ## Dynamic Programming
 |  |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/MohdZibran/LeetCodeQ/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/MohdZibran/LeetCodeQ/tree/master/0780-max-chunks-to-make-sorted) |
 ## Union Find
 |  |
