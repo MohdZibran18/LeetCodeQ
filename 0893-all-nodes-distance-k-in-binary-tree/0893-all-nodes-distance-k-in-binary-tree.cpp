@@ -29,7 +29,7 @@ public:
          vis[target]=true;
         while(!que.empty()){
             int size=que.size();
-            if(cnt++==k) break;
+            if(cnt==k) break;
             for(int i=0;i<size;i++){
                 TreeNode *node = que.front();
                 que.pop();
@@ -49,6 +49,7 @@ public:
                     vis[parent[node]]=true;
                 }
             }
+            cnt++;
         }
         vector<int>ans;
        while(!que.empty()){
