@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/MohdZibran/LeetCodeQ/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MohdZibran/LeetCodeQ/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/MohdZibran/LeetCodeQ/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MohdZibran/LeetCodeQ/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/MohdZibran/LeetCodeQ/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/MohdZibran/LeetCodeQ/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/MohdZibran/LeetCodeQ/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MohdZibran/LeetCodeQ/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/MohdZibran/LeetCodeQ/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MohdZibran/LeetCodeQ/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0697-degree-of-an-array](https://github.com/MohdZibran/LeetCodeQ/tree/master/0697-degree-of-an-array) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/MohdZibran/LeetCodeQ/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MohdZibran/LeetCodeQ/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MohdZibran/LeetCodeQ/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MohdZibran/LeetCodeQ/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/MohdZibran/LeetCodeQ/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/MohdZibran/LeetCodeQ/tree/master/0112-path-sum) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/MohdZibran/LeetCodeQ/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MohdZibran/LeetCodeQ/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MohdZibran/LeetCodeQ/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MohdZibran/LeetCodeQ/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/MohdZibran/LeetCodeQ/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/MohdZibran/LeetCodeQ/tree/master/0112-path-sum) |
@@ -562,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MohdZibran/LeetCodeQ/tree/master/0023-merge-k-sorted-lists) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MohdZibran/LeetCodeQ/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MohdZibran/LeetCodeQ/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/MohdZibran/LeetCodeQ/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
