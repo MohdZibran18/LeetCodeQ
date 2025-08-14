@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/MohdZibran/LeetCodeQ/tree/master/2032-largest-odd-number-in-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/MohdZibran/LeetCodeQ/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MohdZibran/LeetCodeQ/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/MohdZibran/LeetCodeQ/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/MohdZibran/LeetCodeQ/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2727-number-of-senior-citizens](https://github.com/MohdZibran/LeetCodeQ/tree/master/2727-number-of-senior-citizens) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/MohdZibran/LeetCodeQ/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
