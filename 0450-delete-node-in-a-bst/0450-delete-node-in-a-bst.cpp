@@ -1,31 +1,48 @@
 class Solution {
 public: 
-    TreeNode* helper(int low ,int high,vector<int>ans){
-        if(low>high){
-            return NULL;
-        }   
-        int mid=(low+high)/2;
-        TreeNode* root = new TreeNode (ans[mid]);
-        if(low >= 0){
-            root->left= helper(low,mid-1,ans);
+    TreeNode* helper(TreeNode* root){
+        //base case 
+        //case 1 states that  left child is null so why don't u return the right child buddy.
+        if(root->left==NULL) return root->right;
+        //case 2  states that right child is null so why don't u return the left child buddy.
+        if(root->right==NULL) return root->left;
+        //case 3  states that both the  child is not null 
+        TreeNode* rightNode=root->right;
+        TreeNode *RightMostOfLeft = root->left;
+        //left node ke sabse right node pe chale jao 
+        while(RightMostOfLeft->right!=nullptr){
+            RightMostOfLeft=RightMostOfLeft->right;
         }
-        if(high < ans.size()){
-            root->right=helper(mid+1,high,ans);
-        }
-        return root;
-     }
-    void inorder(TreeNode * root,vector<int>&ans,int target){
-        if(root==nullptr) return ;
-        inorder(root->left,ans,target);
-        if(root->val!=target){
-            ans.push_back(root->val);
-        }
-         inorder(root->right,ans,target);
+        RightMostOfLeft->right=rightNode;
+        return root->left; // root ko skip kar diya 
     }
+
     TreeNode* deleteNode(TreeNode* root, int key) {
         if(root==nullptr) return NULL;
-        vector<int>ans;
-        inorder(root,ans,key);
-        return helper(0,ans.size()-1,ans);
+        TreeNode* ptr=root;
+        if(root->val==key){
+            return helper(root);
+        }
+        while(root!=nullptr){
+            if(root->val>key){
+                if(root->left && root->left->val==key){
+                    root->left=helper(root->left);
+                    return ptr;
+                }
+                else {
+                    root=root->left;
+                }
+            }
+            else {
+                if(root->right && root->right->val==key){
+                    root->right=helper(root->right);
+                    return ptr;
+                }
+                else {
+                    root=root->right;
+                }
+            }
+        }
+        return ptr;
     }
 };
