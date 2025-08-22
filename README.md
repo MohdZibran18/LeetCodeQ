@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/MohdZibran/LeetCodeQ/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/MohdZibran/LeetCodeQ/tree/master/3321-type-of-triangle) |
 | [3427-special-array-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/3427-special-array-ii) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3723-sum-of-good-numbers](https://github.com/MohdZibran/LeetCodeQ/tree/master/3723-sum-of-good-numbers) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/MohdZibran/LeetCodeQ/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/3790-fruits-into-baskets-ii) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/MohdZibran/LeetCodeQ/tree/master/1073-number-of-enclaves) |
 | [2089-maximum-matrix-sum](https://github.com/MohdZibran/LeetCodeQ/tree/master/2089-maximum-matrix-sum) |
 | [2737-row-with-maximum-ones](https://github.com/MohdZibran/LeetCodeQ/tree/master/2737-row-with-maximum-ones) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Breadth-First Search
 |  |
 | ------- |
