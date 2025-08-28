@@ -1,10 +1,15 @@
 class Solution {
-public:
-int get_ans(vector<int>& nums,int& t,int curr,int i){
-    if(i>=nums.size()) return curr==t;
-    return get_ans(nums,t,curr+nums[i],i+1)+get_ans(nums,t,curr-nums[i],i+1);
+public: 
+    int solve(vector<int>& nums, int target , int sum , int i){
+        //base case 
+        if(i>=nums.size()){
+            return target==sum;
+        }
+    int a = solve(nums,target , sum+nums[i],i+1); 
+    int b = solve(nums,target , sum-nums[i],i+1);
+    return a+b;
     }
     int findTargetSumWays(vector<int>& nums, int target) {
-       return get_ans(nums,target,0,0);
+        return solve(nums,target,0,0);
     }
 };
