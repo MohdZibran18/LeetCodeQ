@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/MohdZibran/LeetCodeQ/tree/master/0183-customers-who-never-order) |
 | [0620-not-boring-movies](https://github.com/MohdZibran/LeetCodeQ/tree/master/0620-not-boring-movies) |
 | [1908-recyclable-and-low-fat-products](https://github.com/MohdZibran/LeetCodeQ/tree/master/1908-recyclable-and-low-fat-products) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/MohdZibran/LeetCodeQ/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Linked List
 |  |
 | ------- |
