@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MohdZibran/LeetCodeQ/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MohdZibran/LeetCodeQ/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MohdZibran/LeetCodeQ/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/MohdZibran/LeetCodeQ/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MohdZibran/LeetCodeQ/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MohdZibran/LeetCodeQ/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MohdZibran/LeetCodeQ/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MohdZibran/LeetCodeQ/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/MohdZibran/LeetCodeQ/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/MohdZibran/LeetCodeQ/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/0113-path-sum-ii) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MohdZibran/LeetCodeQ/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MohdZibran/LeetCodeQ/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MohdZibran/LeetCodeQ/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/MohdZibran/LeetCodeQ/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/MohdZibran/LeetCodeQ/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/0113-path-sum-ii) |
@@ -606,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/MohdZibran/LeetCodeQ/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MohdZibran/LeetCodeQ/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MohdZibran/LeetCodeQ/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MohdZibran/LeetCodeQ/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/MohdZibran/LeetCodeQ/tree/master/0450-delete-node-in-a-bst) |
@@ -647,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/MohdZibran/LeetCodeQ/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MohdZibran/LeetCodeQ/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MohdZibran/LeetCodeQ/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MohdZibran/LeetCodeQ/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MohdZibran/LeetCodeQ/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/MohdZibran/LeetCodeQ/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/MohdZibran/LeetCodeQ/tree/master/0948-sort-an-array) |
