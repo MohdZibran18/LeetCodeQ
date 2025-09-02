@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/MohdZibran/LeetCodeQ/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/MohdZibran/LeetCodeQ/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/MohdZibran/LeetCodeQ/tree/master/0620-not-boring-movies) |
+| [1179-game-play-analysis-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/1179-game-play-analysis-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/MohdZibran/LeetCodeQ/tree/master/1908-recyclable-and-low-fat-products) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/MohdZibran/LeetCodeQ/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Linked List
