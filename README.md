@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/MohdZibran/LeetCodeQ/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3830-find-closest-person](https://github.com/MohdZibran/LeetCodeQ/tree/master/3830-find-closest-person) |
 ## Two Pointers
 |  |
 | ------- |
