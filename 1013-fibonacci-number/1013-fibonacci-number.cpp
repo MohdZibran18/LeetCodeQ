@@ -1,19 +1,17 @@
 class Solution {
 public:
-int fibo(int num)
-{
-    if(num==0)
-    {
-        return 0;
+    int fibo(int num,vector<int>&dp){
+    if(num<=1){
+        return  num;
     }
-    if(num==1)
-    {
-        return 1;
+    if(dp[num]!=-1){
+        return dp[num];
     }
-    return fibo(num-1)+fibo(num-2);
+    return dp[num]= fibo(num-1,dp)+fibo(num-2,dp);
 }
-    int fib(int n) {
-        int sum=fibo(n);
+    int fib(int n) {  
+        vector<int>dp(n+1,-1);
+        int sum=fibo(n,dp);
         return sum;
     }
 };
