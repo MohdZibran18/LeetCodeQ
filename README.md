@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/MohdZibran/LeetCodeQ/tree/master/1293-three-consecutive-odds) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/MohdZibran/LeetCodeQ/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/MohdZibran/LeetCodeQ/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MohdZibran/LeetCodeQ/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MohdZibran/LeetCodeQ/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MohdZibran/LeetCodeQ/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/MohdZibran/LeetCodeQ/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/MohdZibran/LeetCodeQ/tree/master/0556-next-greater-element-iii) |
 | [1013-fibonacci-number](https://github.com/MohdZibran/LeetCodeQ/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MohdZibran/LeetCodeQ/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MohdZibran/LeetCodeQ/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/MohdZibran/LeetCodeQ/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/MohdZibran/LeetCodeQ/tree/master/2032-largest-odd-number-in-string) |
 | [3201-distribute-candies-among-children-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/3201-distribute-candies-among-children-ii) |
