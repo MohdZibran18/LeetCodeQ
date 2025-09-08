@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/MohdZibran/LeetCodeQ/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MohdZibran/LeetCodeQ/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/MohdZibran/LeetCodeQ/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/MohdZibran/LeetCodeQ/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/MohdZibran/LeetCodeQ/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MohdZibran/LeetCodeQ/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/MohdZibran/LeetCodeQ/tree/master/0347-top-k-frequent-elements) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MohdZibran/LeetCodeQ/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MohdZibran/LeetCodeQ/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/MohdZibran/LeetCodeQ/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/MohdZibran/LeetCodeQ/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/MohdZibran/LeetCodeQ/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/MohdZibran/LeetCodeQ/tree/master/0542-01-matrix) |
