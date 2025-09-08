@@ -6,16 +6,18 @@ public:
         int n= nums.size();
         //base case 
         if(n==1) return nums[0];
-        dp[0] = nums[0];
-        int neg=0;
+        int prev = nums[0];
+        int prev1=0;
         for(int i=1;i<n;i++){
-            int a=nums[i];
+            int a= nums[i];
             if(i>1){
-                a+=dp[i-2];
+                a+=prev1;
             }
-            int b= dp[i-1];
-            dp[i]= max(a,b);
+            int b= prev;
+            int curr= max(a,b);
+            prev1= prev;
+            prev= curr;
         }
-        return dp[n-1];
+        return prev;
     }
 };
