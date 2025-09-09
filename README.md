@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/MohdZibran/LeetCodeQ/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/MohdZibran/LeetCodeQ/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2727-number-of-senior-citizens](https://github.com/MohdZibran/LeetCodeQ/tree/master/2727-number-of-senior-citizens) |
+| [2819-remove-trailing-zeros-from-a-string](https://github.com/MohdZibran/LeetCodeQ/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/MohdZibran/LeetCodeQ/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/MohdZibran/LeetCodeQ/tree/master/3194-find-words-containing-character) |
