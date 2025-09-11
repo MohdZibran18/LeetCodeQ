@@ -17,8 +17,27 @@ public:
     }
     int uniquePathsWithObstacles(vector<vector<int>>& nums) {
          int n= nums.size();
-        int m= nums[0].size();
+         int m= nums[0].size();
        vector<vector<int>>dp(n,vector<int>(m,-1));
-       return solve(nums,n-1,m-1,dp);   
+       //tabulation 
+        if(nums[0][0]==0){
+            dp[0][0]=1;
+        }else {
+            dp[0][0]=0;
+        }
+       for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                 int top,left;
+                    if(i==0 && j==0){
+                        continue;
+                    }
+                    else {
+                        int left =(j > 0 && nums[i][j]==0) ? dp[i][j - 1] : 0;
+                        int top = (i > 0 && nums[i][j]==0) ? dp[i - 1][j] : 0;
+                        dp[i][j] = left + top;
+                     }
+             } 
+       }
+       return dp[n-1][m-1]; 
     }
 };
