@@ -1,24 +1,25 @@
 class Solution {
-    int solve(vector<vector<int>>& grid,int row , int col, vector<vector<int>>& dp){
-        if(row==0 && col==0 ){
-            return grid[row][col];
-        }
-        if(row<0 || col <0){
-            return INT_MAX;
-        }
-        if(dp[row][col]!=-1){
-            return dp[row][col];
-        }
-        int left = solve(grid,row,col-1,dp); 
-        int up = solve(grid,row-1,col,dp);
-        return dp[row][col] = grid[row][col] + min(left, up);
-    }
 public:
     int minPathSum(vector<vector<int>>& grid) {
         int n= grid.size();
         int m= grid[0].size();
         vector<vector<int>>dp(n,vector<int>(m,-1));
-        return solve(grid,n-1,m-1,dp);
+        // tabulation method 
+        // base case filling 
+        dp[0][0]= grid[0][0];
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(i==0 && j==0 ){
+                    continue;
+                }
+                else {
+                    int left = (j>0) ? dp[i][j-1] :INT_MAX; 
+                    int up =  (i>0) ? dp[i-1][j] :INT_MAX;
+                    dp[i][j] = grid[i][j] + min(left, up);
+                }
+            }
+        }
+        return dp[n-1][m-1];
     
     }
 };
