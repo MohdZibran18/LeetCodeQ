@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/MohdZibran/LeetCodeQ/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/MohdZibran/LeetCodeQ/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-valid-word](https://github.com/MohdZibran/LeetCodeQ/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/MohdZibran/LeetCodeQ/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Backtracking
 |  |
 | ------- |
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/MohdZibran/LeetCodeQ/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/MohdZibran/LeetCodeQ/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/MohdZibran/LeetCodeQ/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
