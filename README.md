@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/MohdZibran/LeetCodeQ/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/MohdZibran/LeetCodeQ/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/MohdZibran/LeetCodeQ/tree/master/0948-sort-an-array) |
+| [0967-minimum-falling-path-sum](https://github.com/MohdZibran/LeetCodeQ/tree/master/0967-minimum-falling-path-sum) |
 | [0983-validate-stack-sequences](https://github.com/MohdZibran/LeetCodeQ/tree/master/0983-validate-stack-sequences) |
 | [1025-minimum-cost-for-tickets](https://github.com/MohdZibran/LeetCodeQ/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/MohdZibran/LeetCodeQ/tree/master/1036-rotting-oranges) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/MohdZibran/LeetCodeQ/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/MohdZibran/LeetCodeQ/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/MohdZibran/LeetCodeQ/tree/master/0542-01-matrix) |
+| [0967-minimum-falling-path-sum](https://github.com/MohdZibran/LeetCodeQ/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/MohdZibran/LeetCodeQ/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/MohdZibran/LeetCodeQ/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/MohdZibran/LeetCodeQ/tree/master/1063-best-sightseeing-pair) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/MohdZibran/LeetCodeQ/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/MohdZibran/LeetCodeQ/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/MohdZibran/LeetCodeQ/tree/master/0733-flood-fill) |
+| [0967-minimum-falling-path-sum](https://github.com/MohdZibran/LeetCodeQ/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/MohdZibran/LeetCodeQ/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/MohdZibran/LeetCodeQ/tree/master/1073-number-of-enclaves) |
 | [2089-maximum-matrix-sum](https://github.com/MohdZibran/LeetCodeQ/tree/master/2089-maximum-matrix-sum) |
