@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MohdZibran/LeetCodeQ/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MohdZibran/LeetCodeQ/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/0142-linked-list-cycle-ii) |
+| [0242-valid-anagram](https://github.com/MohdZibran/LeetCodeQ/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/MohdZibran/LeetCodeQ/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MohdZibran/LeetCodeQ/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MohdZibran/LeetCodeQ/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/MohdZibran/LeetCodeQ/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/MohdZibran/LeetCodeQ/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/MohdZibran/LeetCodeQ/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/MohdZibran/LeetCodeQ/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/MohdZibran/LeetCodeQ/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/MohdZibran/LeetCodeQ/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/MohdZibran/LeetCodeQ/tree/master/0392-is-subsequence) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MohdZibran/LeetCodeQ/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/MohdZibran/LeetCodeQ/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/MohdZibran/LeetCodeQ/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/MohdZibran/LeetCodeQ/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MohdZibran/LeetCodeQ/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
