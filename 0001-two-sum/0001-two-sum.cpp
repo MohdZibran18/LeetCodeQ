@@ -1,19 +1,13 @@
 class Solution {
 public:
-    vector<int> twoSum(vector<int>& nums, int target) {
-        sort(nums.begin(),nums.end());
-        int low=0;int high=nums.size()-1;
-        while(low<=high){
-            if(nums[low]+nums[high]==target){
-                return {low,high};
-            }
-            if(nums[low]+nums[high]<target){
-                low++;
-            }
-            else {
-                high--;
-            }
+    vector<int> twoSum(vector<int>& arr, int tar) {
+       map<int,int>mp;
+       for (int i = 0; i < arr.size(); i++) {
+        if (mp.find(tar - arr[i]) != mp.end()) {
+            return {mp[tar - arr[i]], i}; 
         }
-        return {-1,-1};
+        mp[arr[i]] = i;
+    }
+       return {-1,-1};
     }
 };
