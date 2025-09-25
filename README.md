@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/MohdZibran/LeetCodeQ/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/MohdZibran/LeetCodeQ/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/MohdZibran/LeetCodeQ/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/MohdZibran/LeetCodeQ/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2384-root-equals-sum-of-children](https://github.com/MohdZibran/LeetCodeQ/tree/master/2384-root-equals-sum-of-children) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/MohdZibran/LeetCodeQ/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/MohdZibran/LeetCodeQ/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/MohdZibran/LeetCodeQ/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/MohdZibran/LeetCodeQ/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/MohdZibran/LeetCodeQ/tree/master/1073-number-of-enclaves) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/MohdZibran/LeetCodeQ/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2439-longest-cycle-in-a-graph](https://github.com/MohdZibran/LeetCodeQ/tree/master/2439-longest-cycle-in-a-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/MohdZibran/LeetCodeQ/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/MohdZibran/LeetCodeQ/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/MohdZibran/LeetCodeQ/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/MohdZibran/LeetCodeQ/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/MohdZibran/LeetCodeQ/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/MohdZibran/LeetCodeQ/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2384-root-equals-sum-of-children](https://github.com/MohdZibran/LeetCodeQ/tree/master/2384-root-equals-sum-of-children) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/MohdZibran/LeetCodeQ/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Database
@@ -585,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/MohdZibran/LeetCodeQ/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/MohdZibran/LeetCodeQ/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/MohdZibran/LeetCodeQ/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/MohdZibran/LeetCodeQ/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MohdZibran/LeetCodeQ/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MohdZibran/LeetCodeQ/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/MohdZibran/LeetCodeQ/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -680,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/MohdZibran/LeetCodeQ/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MohdZibran/LeetCodeQ/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/MohdZibran/LeetCodeQ/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/MohdZibran/LeetCodeQ/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Data Stream
 |  |
 | ------- |
