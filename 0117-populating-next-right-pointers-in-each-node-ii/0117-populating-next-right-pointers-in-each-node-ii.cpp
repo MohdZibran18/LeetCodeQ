@@ -14,17 +14,16 @@ public:
             for(int i=0;i<size;i++){
                 auto node= que.front();
                 que.pop();
-                if(node->val!=-101){
-                    if(node->right){
-                        que.push(node->right);
-                    }
-                    if(node->left){
-                        que.push(node->left);
-                    }
-                    
-                    node->next=ptr;
+                if(i==0){
+                    node->next=NULL;
                     ptr=node;
                 }
+               else {
+                    node->next=ptr;
+                    ptr=node;
+               }
+                   if(node->right!=NULL) que.push(node->right);
+                   if(node->left!=NULL)  que.push(node->left);
             }
         }
         return root;
