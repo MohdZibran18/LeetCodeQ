@@ -21,9 +21,7 @@ public:
                     if(node->left){
                         que.push(node->left);
                     }
-                    else {
-                        que.push(new Node(-101));
-                    }
+                    
                     node->next=ptr;
                     ptr=node;
                 }
