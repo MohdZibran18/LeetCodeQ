@@ -1,30 +1,24 @@
 class Solution {
 public:
-    bool canPartition(vector<int>& nums) {
-        int n= nums.size();
-        int sum=0;
-        for(int i=0;i<n;i++) sum += nums[i];
-        if(sum%2==1) return false;
-        sum= sum/2;
-         vector<vector<bool>>dp(nums.size(), vector<bool>(sum+1,false));
-         // filling base case 
-         for(int i=0;i<n;i++){
-            dp[i][0]= true;
-         }
-         if (nums[0] <= sum) {
-            dp[0][nums[0]] = true;
+    bool solve(vector<int>&ans,int index,int tar,vector<vector<int>>&dp){
+        if(tar==0) return true;
+        if(index == 0) return (ans[index] == tar);
+        if(tar<0) return false;
+        if(dp[index][tar]!=-1){
+            return dp[index][tar];
         }
-         for(int i=1;i<n;i++){
-            for(int j= 1 ;j <=sum ; j++){
-                bool take = false;
-                bool notTake = false;
-                notTake= dp[i-1][j];
-                if(nums[i] <= j){
-                     take = dp[i-1][j - nums[i]];
-                }
-                 dp[i][j] = take || notTake;
-            }
-         }
-        return dp[n-1][sum];
+        return dp[index][tar]=solve(ans,index-1,tar-ans[index],dp)|| solve(ans,index-1,tar,dp);
+    }
+    bool canPartition(vector<int>& nums) {
+        int sum=0;
+        for(int i=0;i<nums.size();i++){
+            sum+=nums[i];
+        }
+        if(sum%2==1){
+            return false;
+        }
+        int tar=sum/2;
+        vector<vector<int>>dp(nums.size()+1,vector<int>(tar+1,-1));
+        return solve(nums,nums.size()-1,sum/2,dp);
     }
 };
