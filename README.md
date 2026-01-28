@@ -771,4 +771,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/MohdZibran/LeetCodeQ/tree/master/3462-vowels-game-in-a-string) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/MohdZibran/LeetCodeQ/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
